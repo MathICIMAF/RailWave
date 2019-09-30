@@ -50,7 +50,7 @@ When the propagation in the rail is animated, the button changes its name to **S
 ## 5. About RailWave
 
 RailWave was developed using the **C++** programming language and the **Qt Creator** development platform. To visualize the rail, the dispersion curves and the displacements, the **OpenGL** graphic library was used. The **ARPACK** library was used to solve the problems of Linear Algebra that are obtained from the formulation of the problem.
-RailWave was conceived by a group of researchers from the **Instituto de Cibernética, Matemática y Física (ICIMAF)** as a tool for the analysis of ultrasonic wave dispersion curves.
+RailWave was conceived by a group of researchers from the **Instituto de Cibernética, Matemática y Física (ICIMAF)** of **Cuba** as a tool for the analysis of ultrasonic wave dispersion curves.
 
 
 
